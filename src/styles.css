@@ -1,0 +1,35 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.images {
+  width: 300px;
+  height: 300px;
+  border: 5px solid goldenrod;
+  margin: 20px;
+}
+.container {
+  display: flex;
+}
+.content {
+  margin-left: 2px;
+}
+.heading {
+  text-align: left;
+  border-bottom: 2px solid goldenrod;
+}
+.desc {
+  color: grey;
+  width: 600px;
+}
+.price {
+  color: goldenrod;
+  margin-left: -10px;
+}
+.filter-btn {
+  background: transparent;
+  color: goldenrod;
+  border: none;
+  text-transform: uppercase;
+  cursor: pointer;
+}
